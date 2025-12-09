@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "紫苑",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-09T02:32:48.209127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紫苑 - Shion",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/01_紫苑_-_Shion_Saucy_Dog.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紫苑",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/02_紫苑_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "紫苑",
+      "artist": "クレナズム",
+      "has_synced": true,
+      "path": "select/03_紫苑_クレナズム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紫苑",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_紫苑_Saucy_Dog.txt"
+    }
+  ]
+}
